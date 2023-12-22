@@ -1,2 +1,2 @@
 # recomendation_system
-A Movie Recommendation system using Seaborn and countVerctor model 
+A Machine Learning project aims to built Movie Recommendation system using Seaborn and countVerctor model 
